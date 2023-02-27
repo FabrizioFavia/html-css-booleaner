@@ -56,3 +56,30 @@ h1{
 p{
     text-align: justify;
 }
+
+.paragrafo{
+    margin-bottom: 50px;
+}
+
+ul{
+    padding-left: 12px;
+}
+
+table{
+    margin-top: 30px;
+}
+
+th{
+    background-color: cadetblue;
+    width: 25%;
+    text-align: left;
+}
+
+.customTh{
+    width: 50%;
+}
+
+.customColor{
+    background-color: lightblue;
+}
+
