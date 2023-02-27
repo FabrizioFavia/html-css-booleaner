@@ -1,0 +1,18 @@
+body{
+    margin: 0;  
+}
+
+header{
+    width: 100%;
+    background-color: rgb(55, 164, 200);
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-size: 230px;  
+}
+
+.logo{
+    width: 10%;
+    padding-top: 20px;
+    padding-left: 200px;
+}
