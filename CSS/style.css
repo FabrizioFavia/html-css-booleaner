@@ -19,7 +19,7 @@ header{
 }
 
 .mainContainer{
-    width: 1100px;
+    width: 1050px;
     margin-left: auto;
     margin-right: auto;
     
@@ -82,3 +82,26 @@ th{
     background-color: lightblue;
 }
 
+
+
+.sottotitoloDue{
+    color: gray;
+}
+
+.customSection{
+    margin-bottom: 30px;
+}
+
+.divImg{
+    background-image: url("../img/monitor.jpg");
+    background-position: center;
+    width: 250px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+h3{
+    color: white;
+    padding-left: 10px;
+    line-height: 40px;
+}
