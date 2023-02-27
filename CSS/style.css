@@ -65,11 +65,10 @@ ul{
 table{
     margin-top: 30px;
     margin-bottom: 30px;
-    
 }
 
 th{
-    background-color: cadetblue;
+    background-color: rgb(69, 140, 178);
     width: 25%;
     text-align: left;
 }
