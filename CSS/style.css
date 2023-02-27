@@ -57,9 +57,6 @@ p{
     text-align: justify;
 }
 
-.paragrafo{
-    margin-bottom: 50px;
-}
 
 ul{
     padding-left: 12px;
@@ -67,6 +64,8 @@ ul{
 
 table{
     margin-top: 30px;
+    margin-bottom: 30px;
+    
 }
 
 th{
