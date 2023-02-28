@@ -94,19 +94,17 @@ th{
 }
 
 .divImg{
-    background-image: url("../img/monitor.jpg");
     background-position: center;
     width: 250px;
     height: 200px;
     margin-top: 5px;
 }
+#img1{
+    background-image: url("../img/monitor.jpg");
 
-.divImg2{
+}
+#img2{
     background-image: url("../img/graph.jpg");
-    background-position: center;
-    width: 250px;
-    height: 200px;
-    margin-top: 5px;
 }
 
 h3{
