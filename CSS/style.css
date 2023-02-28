@@ -101,6 +101,14 @@ th{
     margin-top: 5px;
 }
 
+.divImg2{
+    background-image: url("../img/graph.jpg");
+    background-position: center;
+    width: 250px;
+    height: 200px;
+    margin-top: 5px;
+}
+
 h3{
     color: white;
     padding-left: 10px;
